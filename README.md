@@ -9,3 +9,8 @@ Solution Description:
 1) Pre-trained model: https://huggingface.co/ai-forever/ruRoberta-large
 2) Optimier: AdamW, Schduler: Cosine Schedule with Warmup, Loss: Cross Entropy
 3) Keypoints: training only on answers
+
+
+# Contributors
+- <a rel="leffff" class="Link--primary" href="https://github.com/leffff">@leffff</a>
+- <a rel="AndreyML" class="Link--primary" href="https://github.com/AndreyML">@AndreyML</a>
